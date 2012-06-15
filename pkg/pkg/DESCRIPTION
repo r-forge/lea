@@ -1,0 +1,11 @@
+Package: lea
+Title: Learning Analytics
+Version: 0.1
+Date: 2012-06-01
+Author: Abelardo Pardo, Fridolin Wild
+Description: Learning analytics is the science of studying data traces of learning activity with the aim of predicting performance and advising decision making. This package provides all data sets and demos necessary to get started with a learning analytics project.
+Depends: tm, XML
+Maintainer: Fridolin Wild <f.wild@open.ac.uk>
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyLoad: no
